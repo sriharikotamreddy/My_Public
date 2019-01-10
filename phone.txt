@@ -6,3 +6,5 @@ blackberry z10
 iphone 6
 lenova
 moto E6
+LYF
+Microsoft
