@@ -8,6 +8,5 @@ lenova
 moto E6
 LYF
 Microsoft
-dummy master
-dummy master
->>>>>>> master
+dummy 
+dummy
