@@ -3,3 +3,6 @@ mi 4s
 nokia 1100
 samsung galaxy
 blackberry z10
+iphone 6
+lenova
+moto E6
